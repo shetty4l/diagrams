@@ -2,6 +2,7 @@
   "name": "@shetty4l/diagrams",
   "version": "0.0.0-dev",
   "description": "Declarative animated architecture diagrams for Remotion",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shetty4l/diagrams.git"
